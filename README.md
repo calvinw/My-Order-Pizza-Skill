@@ -65,3 +65,7 @@ The agent should ask for the customer's name — that's all the contact info nee
 After taking the order, the agent should ask whether the customer is a senior citizen, apply the right discount, and show the final total with the math clearly laid out.
 
 **Current order table:** Once the customer has added at least one item, every response from the agent should end with a markdown table showing the current order — item, quantity, size, price, and a running total row at the bottom. This table should update automatically as items are added.
+
+---
+
+**Note:** Menu updated with current prices.
